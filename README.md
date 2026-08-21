@@ -27,3 +27,13 @@ The project requires Java 11. Open it in IntelliJ IDEA, select an Eclipse Temuri
 ## License
 
 Newer Style HitSplats is available under the BSD 2-Clause License. See [LICENSE](LICENSE).
+
+## Screenshots
+
+![Newer Style Hitsplats - Combat Example](screenshots/11.png)
+
+![Newer Style Hitsplats - Combat Example](screenshots/22.png)
+
+![Newer Style Hitsplats - Combat Example](screenshots/33.png)
+
+![Newer Style Hitsplats - Combat Example](screenshots/44.png)
